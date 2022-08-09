@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yaelBrown/traxkr#readme",
   "dependencies": {
-    "concurrency": "^0.1.4"
+    "concurrency": "^0.1.4",
+    "react-router-dom": "^6.3.0"
   }
 }
