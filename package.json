@@ -1,0 +1,23 @@
+{
+  "name": "traxkr",
+  "version": "1.0.0",
+  "description": "Use a second phone as a tracking device.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaelBrown/traxkr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaelBrown/traxkr/issues"
+  },
+  "homepage": "https://github.com/yaelBrown/traxkr#readme",
+  "dependencies": {
+    "concurrency": "^0.1.4"
+  }
+}
