@@ -3,3 +3,11 @@
   width: 300px;
   text-align: center;
 }
+
+.loginRow {
+  margin-top: .5em;
+}
+
+.loginRow * {
+  margin-right: .4em;
+}
